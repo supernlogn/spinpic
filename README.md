@@ -1,4 +1,4 @@
-# Search People IN PICtures
+# Search People IN PICtures - Not finished
 This projects aids photographers or other users to query people in a specific dataset.
 Essentially is a cluster of faces detected in a image dataset
 
